@@ -1,0 +1,32 @@
+le code est: 1 le solde est: 2880.0,created
+les information de votre Compte :
+le numero de l'operation est :1 === le montant retirer est :300.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le numero de l'operation est :2 === le montant retirer est :300.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le numero de l'operation est :3 === le montant retirer est :300.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le numero de l'operation est :4 === le montant retirer est :20.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le totale de versement est : 900.0 DH 
+le totale de retairait est : -20.0 DH  
+
+le code est: 2 le solde est: 1560.0,created
+les information de votre Compte :
+le numero de l'operation est :5 === le montant retirer est :100.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le numero de l'operation est :6 === le montant retirer est :40.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le numero de l'operation est :11 === le montant retirer est :500.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le totale de versement est : 100.0 DH 
+le totale de retairait est : -540.0 DH  
+
+le code est: 3 le solde est: 2400.0,created
+les information de votre Compte :
+le numero de l'operation est :7 === le montant retirer est :500.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le numero de l'operation est :8 === le montant retirer est :100.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le totale de versement est : 500.0 DH 
+le totale de retairait est : -100.0 DH  
+
+le code est: 4 le solde est: 2550.0,created
+les information de votre Compte :
+le numero de l'operation est :9 === le montant retirer est :100.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le numero de l'operation est :10 === le montant retirer est :50.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le numero de l'operation est :12 === le montant retirer est :500.0 === la date de l'operation est Thu Oct 05 06:51:16 WEST 2023
+le totale de versement est : 600.0 DH 
+le totale de retairait est : -50.0 DH  
+
